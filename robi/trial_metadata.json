@@ -1,0 +1,11 @@
+{
+    "trial_number": 1,
+    "hyperparameters": {
+        "hidden_size": 512,
+        "num_layers": 2,
+        "dropout": 0.2,
+        "learning_rate": 1e-05,
+        "gradient_accumulation_steps": 8
+    },
+    "best_val_loss": 0.7869275789707899
+}
